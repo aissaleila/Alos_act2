@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "web_pages": [
+          "http://www.marywood.edu"
+        ],
+        "name": "Marywood University",
+        "alpha_two_code": "US",
+        "domains": [
+          "marywood.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "id": 2,
+        "web_pages": [
+          "https://www.upes.ac.in/"
+          ],
+          "name": "University of Petroleum and Energy Studies",
+          "alpha_two_code": "IN",
+          "domains": [
+          "upes.ac.in"
+          ],
+          "country": "India"
+    },
+    {
+        "id": 3,
+        "web_pages": [
+          "https://www.cstj.qc.ca",
+          "https://ccmt.cstj.qc.ca",
+          "https://ccml.cstj.qc.ca"
+        ],
+        "name": "Cégep de Saint-Jérôme",
+        "alpha_two_code": "CA",
+        "domains": [
+          "cstj.qc.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "id": 4,
+        "web_pages": [
+          "https://sullivan.edu/"
+        ],
+        "name": "Sullivan University",
+        "alpha_two_code": "US",
+        "domains": [
+          "sullivan.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "id": 5,
+        "web_pages": [
+          "http://www.ircam.fr/"
+        ],
+        "name": "Institut de Recherche et Coordination Acoustique/Musique",
+        "alpha_two_code": "FR",
+        "domains": [
+          "ircam.fr"
+        ],
+        "country": "France"
+    },
+    {
+      "id": 6,
+      "web_pages": [
+        "http://www.bits-iserlohn.de/"
+      ],
+      "name": "BiTS - Business and Information Technology School gGmbH",
+      "alpha_two_code": "DE",
+      "domains": [
+        "bits-iserlohn.de"
+      ],
+      "country": "Germany"
+    },
+    {
+      "id": 7,
+      "web_pages": [
+        "http://www.uowm.gr/"
+      ],
+      "name": "University of Western Macedonia",
+      "alpha_two_code": "GR",
+      "domains": [
+        "uowm.gr"
+      ],
+      "country": "Greece"
+    },
+    {
+      "id": 8,
+      "web_pages": [
+        "http://www.unimetro.edu.hn/"
+      ],
+      "name": "Universidad Metropolitana de Honduras",
+      "alpha_two_code": "HN",
+      "domains": [
+        "unimetro.edu.hn"
+      ],
+      "country": "Honduras"
+    },
+    {
+      "id": 9,
+      "web_pages": [
+        "http://www.ied.edu.hk/"
+      ],
+      "name": "Hong Kong Institute of Education",
+      "alpha_two_code": "HK",
+      "domains": [
+        "ied.edu.hk"
+      ],
+      "country": "Hong Kong"
+    },
+    {
+      "id": 10,
+      "web_pages": [
+        "http://www.andrassyuni.hu/"
+      ],
+      "name": "Andrassy Gyula German Speaking University Budapest",
+      "alpha_two_code": "HU",
+      "domains": [
+        "andrassyuni.hu"
+      ],
+      "country": "Hungary"
+    }
+]
